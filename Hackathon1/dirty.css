@@ -1,0 +1,62 @@
+
+#background {
+    background-image: url('http://cdn.wallpapersafari.com/18/98/W3e2qZ.jpg');
+    background-size: cover;
+    height: 1000px;
+    width: 1500px;
+}
+
+.jumbotron {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);
+    
+    
+}
+
+.jumbotron h1 {
+    font-size: 140px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Lobster', cursive;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: white;
+  
+    
+}
+
+.result {
+    /*float: none;
+    margin-left: auto;
+    margin-right: auto;*/
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    font-family: 'Slabo 27px', serif;
+    font-style: italic;
+}
+
+img {
+    width: 200px;
+}
+
+p {
+    font-size: 50px;
+    font-family: 'Slabo 27px', serif;
+}
+
+.result h1 {
+    font-size: 60px;
+}
+
+
+.jumbotron button {
+    background-color: grey; 
+    border: transparent;
+    border-radius: 10px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    
+}
